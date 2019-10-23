@@ -6,6 +6,8 @@ Pristine Typescript React Material UI is a fork of [Pristine](https://github.com
 
 There are a lack of repositories to start from to build community driven, multi-language open source projects. This is a complete starting point, it follows a Documentation Driven Development approach, and can be used as a resource to augment existing documentation.
 
+![pristine-react-material-ui](https://cdn.discordapp.com/attachments/521369156751458316/636577714760843275/app_starter.gif)
+
 ## How to use Pristine in your project
 
 There are 3 options for using pristine with your project.
