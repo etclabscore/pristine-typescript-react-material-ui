@@ -35,7 +35,7 @@ const MyApp: React.FC = () => {
       <div>
         <CssBaseline />
         <Grid container alignContent="center" alignItems="center" justify="center" direction="column">
-          <img alt="pristine-logo" src={darkMode.value
+          <img className="pristine-logo" alt="pristine-logo" src={darkMode.value
             ? "https://github.com/etclabscore/pristine-media-assets/blob/master/pristine-logo-dark/pristine-logo-dark%20(PNG)/256x256.png?raw=true" //tslint:disable-line
             : "https://github.com/etclabscore/pristine-media-assets/blob/master/pristine-logo/pristine-logo%20(PNG)/256x256.png?raw=true" //tslint:disable-line
           } style={{ paddingTop: "10%" }} />
