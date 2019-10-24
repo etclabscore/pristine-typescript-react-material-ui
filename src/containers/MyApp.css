@@ -21,3 +21,12 @@ body {
 .Resizer {
   z-index: 1;
 }
+
+.logo {
+  animation: fadein 5s;
+}
+
+@keyframes fadein {
+   from { opacity: 0 }
+   to { opacity: 1 }
+}

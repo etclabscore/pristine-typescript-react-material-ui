@@ -39,9 +39,7 @@ i18n
         switch (format) {
           case "date":
             return moment(value).locale(ln || "en").format("MMMM Do YYYY, h:mm:ss a") as any;
-            break;
           default:
-            return;
             break;
         }
       },
