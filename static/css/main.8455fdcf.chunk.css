@@ -1,0 +1,2 @@
+body{margin:0;overflow-x:hidden;max-width:100%}::-webkit-scrollbar{width:10px}::-webkit-scrollbar-track{background:#666;z-index:1}::-webkit-scrollbar-thumb{background:#ddd;border-radius:5px}.Resizer{z-index:1}.logo{-webkit-animation:fadein 5s;animation:fadein 5s}@-webkit-keyframes fadein{0%{opacity:0}to{opacity:1}}@keyframes fadein{0%{opacity:0}to{opacity:1}}
+/*# sourceMappingURL=main.8455fdcf.chunk.css.map */
