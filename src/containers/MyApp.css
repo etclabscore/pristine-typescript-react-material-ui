@@ -22,11 +22,11 @@ body {
   z-index: 1;
 }
 
-.pristine-logo {
-  animation: fadein 1s;
+.logo {
+  animation: fadein 5s;
 }
 
 @keyframes fadein {
    from { opacity: 0 }
-   to { opacity: 10 }
+   to { opacity: 1 }
 }
