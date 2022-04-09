@@ -38,7 +38,7 @@
     "@material-ui/icons": "^4.5.1",
     "i18next": "^17.3.0",
     "i18next-browser-languagedetector": "^4.0.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-i18next": "^10.13.1",
